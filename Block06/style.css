@@ -1,0 +1,48 @@
+h1{
+    text-align: center;
+    color:blue;
+    background-color: red;
+}
+.first-pantry{
+    border-width: 3px;
+    border-color: black;
+    border-style: double; 
+    display: inline-block;
+    padding: 10px;
+    background-color: antiquewhite;
+}
+.second-pantry{
+    border-width: 3px;
+    border-color: black;
+    border-style: double;
+    display: inline-block;
+    padding: 10px;
+    background-color: antiquewhite;
+}
+.first-freezer{
+    border-width: 3px;
+    border-color: black;
+    border-style: double; 
+    display: inline-block;
+    padding: 10px;
+    background-color: aquamarine;
+}
+.second-freezer{
+    border-width: 3px;
+    border-color: black;
+    border-style: double; 
+    display: inline-block;
+    padding: 10px;
+    background-color: aquamarine;
+}
+ul{
+    font-size: 14px;
+}
+img{
+    width: 150px;
+    border-width: 3px;
+    border-color: black;
+    border-style: double; 
+    display: inline-block;
+    padding: 10px;
+}
